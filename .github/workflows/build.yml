@@ -1,5 +1,7 @@
-name: Build
-on: workflow_dispatch
+name: Build and Publish
+on:
+  push:
+    branches: [master]
 
 jobs:
   build_matrix:
