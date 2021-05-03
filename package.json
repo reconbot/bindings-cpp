@@ -1,6 +1,6 @@
 {
   "name": "@reconbot/bindings-cpp",
-  "version": "9.0.9",
+  "version": "0.0.0-development",
   "main": "lib",
   "keywords": [
     "serialport-binding"
@@ -21,6 +21,7 @@
     "node-abi": "^2.19.3",
     "prebuildify": "^4.1.2",
     "proxyquire": "^2.1.3",
+    "semantic-release": "^17.4.2",
     "sinon": "^9.2.4"
   },
   "engines": {
