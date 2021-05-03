@@ -3,3 +3,6 @@
 build/
 CHANGELOG.md
 lib/mocks
+.mocharc.js
+test
+test-config.json
