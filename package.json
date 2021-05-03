@@ -1,6 +1,6 @@
 {
   "name": "@reconbot/bindings-cpp",
-  "version": "9.0.8",
+  "version": "9.0.9",
   "main": "lib",
   "keywords": [
     "serialport-binding"
