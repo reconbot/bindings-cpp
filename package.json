@@ -1,6 +1,6 @@
 {
   "name": "@reconbot/bindings-cpp",
-  "version": "9.0.7",
+  "version": "9.0.8",
   "main": "lib",
   "keywords": [
     "serialport-binding"
@@ -28,6 +28,7 @@
   },
   "scripts": {
     "install": "node-gyp-build",
+    "test": "mocha",
     "lint": "cc --verbose",
     "prebuild": "prebuildify --all --strip",
     "rebuild": "node-gyp rebuild"
